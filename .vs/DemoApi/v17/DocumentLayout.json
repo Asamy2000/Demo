@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PrivateWork\\DemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2400207-EEE2-4C6E-9B9A-6E35D2F81A03}|DemoApi\\DemoApi.csproj|d:\\privatework\\demoapi\\demoapi\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2400207-EEE2-4C6E-9B9A-6E35D2F81A03}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "D:\\PrivateWork\\DemoApi\\DemoApi\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Controllers\\HelloController.cs",
+              "ToolTip": "D:\\PrivateWork\\DemoApi\\DemoApi\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "DemoApi\\Controllers\\HelloController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T07:34:20.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

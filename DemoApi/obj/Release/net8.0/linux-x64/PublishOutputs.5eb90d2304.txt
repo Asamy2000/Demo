@@ -1,0 +1,4 @@
+D:\PrivateWork\DemoApi\DemoApi\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\PrivateWork\DemoApi\DemoApi\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+D:\PrivateWork\DemoApi\DemoApi\obj\Release\net8.0\linux-x64\PubTmp\Out\DemoApi.pdb
+D:\PrivateWork\DemoApi\DemoApi\obj\Release\net8.0\linux-x64\PubTmp\Out\DemoApi
